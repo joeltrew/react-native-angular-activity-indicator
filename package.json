@@ -1,0 +1,21 @@
+{
+  "name": "react-native-angular-activity-indicator",
+  "description": "A React native port of Phillip Caudell's (PCAngularActivityLoadingIndicatorView)",
+  "version": "0.0.1",
+  "keywords": [
+  	"react-component",
+    "react-native",
+    "ios",
+    "spinner",
+    "loader",
+    "angular",
+    "indicator"
+    ],
+
+  "author": {
+    "name": "Joel Trew",
+    "url": "https://github.com/joeltrew"
+  },
+
+  "license": "MIT"
+}
