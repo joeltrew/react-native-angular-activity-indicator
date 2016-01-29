@@ -14,7 +14,7 @@ Link the Objective C Library by following this [guide](https://facebook.github.i
 
 ``` javascript
 
-var Loader = require('react-native-angular-activity-loading-indicator');
+var LoadingIndicator = require('react-native-angular-activity-loading-indicator');
 
 <LoadingIndicator 
 	isAnimating={this.state.isAnimating} 
