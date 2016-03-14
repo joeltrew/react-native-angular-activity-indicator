@@ -6,7 +6,6 @@
 
 var React = require('react-native');
 var { requireNativeComponent } = React;
-var View = require('View');
 
 class AngularActivityLoadingIndicator extends React.Component {
   render() {
