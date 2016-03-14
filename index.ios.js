@@ -5,7 +5,7 @@
 'use strict';
 
 var React = require('react-native');
-var { requireNativeComponent } = React;
+var { requireNativeComponent, View } = React;
 
 class AngularActivityLoadingIndicator extends React.Component {
   render() {
